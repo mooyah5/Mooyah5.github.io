@@ -4,8 +4,7 @@ title: "🖥️ Portfolio"
 author: "Hanna"
 tags: 포트폴리오
 excerpt_separator: <!--more--> # 축약
-
-# hidden: true
+hidden: true
 ---
 
 <br>
